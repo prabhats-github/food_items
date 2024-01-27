@@ -1,0 +1,74 @@
+#d1{
+    height: 100px;
+    width: 100%;
+    text-align: left;
+}
+
+ul{
+    list-style: disc;
+}
+
+a{
+    font-size: x-small;
+}
+
+.k{
+    /* height: 100px;
+    width: 200px; */
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#pizza{
+    height: 360px;
+    width: 700px;
+}
+#chow{
+    height: 360px;
+    width: 700px;
+    
+    
+}
+#momoz{
+    height: 360px;
+    width: 700px;
+}
+#pav{
+    height: 360px;
+    width: 700px;
+}
+#spring{
+    height: 360px;
+    width: 700px;
+}
+
+#paties{
+    height: 360px;
+    width: 700px;
+}
+
+#chaat{
+    height: 360px;
+    width: 700px;
+}
+
+#bhel{
+    height: 360px;
+    width: 700px;
+}
+#french{
+    height: 360px;
+    width: 700px;
+}
+#pasta{
+    height: 360px;
+    width: 700px;
+}
+#man{
+    height: 360px;
+    width: 700px;
+}
+#ch{
+    height: 360px;
+    width: 700px;
+}
